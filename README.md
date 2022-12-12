@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Seulah and Full-Stack Developer.
 
 <!--
 **Seulah-coder/Seulah-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
