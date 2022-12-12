@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   
  
   <!--title-->
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seulah's%20github&fontSize=90" />
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Seulah's%20github&fontSize=90" />
   <div aling = "center">
   <!--badge-->
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
